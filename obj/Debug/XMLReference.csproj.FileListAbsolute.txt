@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\XMLReference\bin\Debug\XMLReference.exe.config
+C:\Users\Lenovo\source\repos\XMLReference\bin\Debug\XMLReference.exe
+C:\Users\Lenovo\source\repos\XMLReference\bin\Debug\XMLReference.pdb
+C:\Users\Lenovo\source\repos\XMLReference\obj\Debug\XMLReference.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\XMLReference\obj\Debug\XMLReference.exe
+C:\Users\Lenovo\source\repos\XMLReference\obj\Debug\XMLReference.pdb
